@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 
 const page = () => {
@@ -116,9 +117,9 @@ const page = () => {
                             </div>
                         </div>
                         <div className="mt-6 text-center">
-                            <div className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full text-white font-medium">
+                            <div onClick={() => window.open('https://profileshorten.gteck45.cloud/', '_blank')} className="inline-flex items-center px-4 py-2 bg-gradient-to-r cursor-pointer from-blue-500 to-purple-600 rounded-full text-white font-medium">
                                 <span className="w-2 h-2 bg-green-400 rounded-full mr-2 animate-pulse"></span>
-                                Production Ready
+                                Live Demo
                             </div>
                         </div>
                     </div>
