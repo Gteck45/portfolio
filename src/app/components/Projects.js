@@ -25,7 +25,7 @@ const Projects = () => {
                             <div className="lg:grid lg:grid-cols-2 lg:gap-16">
                                 <div className="lg:pb-16">
                                     <div className="bg-gradient-to-r from-purple-500 to-sky-400 inline-flex gap-2 font-bold uppercase tracking-widest text-sm text-transparent bg-clip-text">
-                                        <span>Link Shortener</span>
+                                        <span>Oblivor Exam Ai</span>
                                         <span>•</span>
                                         <span>2025</span>
                                     </div>
@@ -33,12 +33,14 @@ const Projects = () => {
                                     </h3>
                                     <hr className="border-t-2 border-white/5 mt-4 md:mt-5" />
                                     <ul className="flex flex-col mt-4 gap-4 md:mt-5">
-                                        <li className="flex text-sm md:text-base text-white/50 gap-2">
-                                            <span>The Question Paper Maker is an AI-based question paper formatter and generator, a user-friendly tool that uses AI to make question papers with ease. You
-                                                can start new projects and edit them in real time with built-in AI chat support. It enables you to use custom prompts, upload content, and even translate
-                                                papers into other languages. Everything can be exported as a neat, polished PDF when you're finished. The app has features like making questions just by
-                                                uploading the book, a clear project dashboard, and easy ways to print or share your documents. It is also safe and mobile-friendly</span>
-                                        </li>
+                                      <li className="flex text-sm md:text-base text-white/50 gap-2">
+  <span>
+    The Question Paper Maker is an AI-based question paper formatter and generator, a user-friendly tool that uses AI to make question papers with ease. You
+    can start new projects and edit them in real time with built-in AI chat support. It enables you to use custom prompts, upload content, and even translate
+    papers into other languages. Everything can be exported as a neat, polished PDF when you&apos;re finished. The app has features like making questions just by
+    uploading the book, a clear project dashboard, and easy ways to print or share your documents. It is also safe and mobile-friendly.
+  </span>
+</li>
 
                                     </ul>
                                     <a href="http://16.16.209.238:3000/">
@@ -378,5 +380,6 @@ const Projects = () => {
         </>
     )
 }
+
 
 export default Projects
