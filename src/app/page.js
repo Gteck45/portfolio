@@ -10,7 +10,7 @@ export default function Home() {
         </p>
         <div className="mt-6 flex gap-4 fade-in delay-2 items-center justify-center">
           <a
-            href="https://me.princebidhuri.com/"
+            href="/resume.pdf"
             className="px-6 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-xl shadow"
           >
             View Resume

@@ -29,6 +29,49 @@ const Projects = () => {
                                         <span>•</span>
                                         <span>2025</span>
                                     </div>
+                                    <h3 className="font-serif text-2xl mt-2 md:text-4xl md:mt-5 text-white">Oblivor Exam
+                                    </h3>
+                                    <hr className="border-t-2 border-white/5 mt-4 md:mt-5" />
+                                    <ul className="flex flex-col mt-4 gap-4 md:mt-5">
+                                        <li className="flex text-sm md:text-base text-white/50 gap-2">
+                                            <span>The Question Paper Maker is an AI-based question paper formatter and generator, a user-friendly tool that uses AI to make question papers with ease. You
+                                                can start new projects and edit them in real time with built-in AI chat support. It enables you to use custom prompts, upload content, and even translate
+                                                papers into other languages. Everything can be exported as a neat, polished PDF when you're finished. The app has features like making questions just by
+                                                uploading the book, a clear project dashboard, and easy ways to print or share your documents. It is also safe and mobile-friendly</span>
+                                        </li>
+
+                                    </ul>
+                                    <a href="http://16.16.209.238:3000/">
+                                        <button className="cursor-pointer bg-white mt-8 inline-flex items-center justify-center text-gray-950 h-12 w-full md:w-auto px-6 rounded-xl font-semibold">
+                                            <span>Live</span>
+                                        </button>
+                                    </a>
+                                </div>
+                                <div className="relative flex items-center justify-center ">
+                                    <img
+                                        alt="Project Screenshot"
+                                        className="mt-8 -mb-4 md:-mb-0 lg:mt-0 lg:absolute lg:h-full lg:w-auto lg:max-w-none rounded-lg pb-3"
+                                        loading="lazy"
+                                        decoding="async"
+                                        src="/Oblivor.webp"
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="flex flex-col gap-20 mt-10 md:mt-20">
+                        <div className="bg-gray-800 relative overflow-hidden rounded-3xl px-8 pt-8 pb-0 md:pt-12 md:px-10 lg:pt-16 lg:px-20">
+                            <div
+                                className="absolute inset-0 -z-10 opacity-5"
+                            // style={{ backgroundImage: "url(https://img.freepik.com/free-vector/smiling-young-man-illustration_1308-174669.jpg)" }}
+                            ></div>
+                            <div className="lg:grid lg:grid-cols-2 lg:gap-16">
+                                <div className="lg:pb-16">
+                                    <div className="bg-gradient-to-r from-purple-500 to-sky-400 inline-flex gap-2 font-bold uppercase tracking-widest text-sm text-transparent bg-clip-text">
+                                        <span>Link Shortener</span>
+                                        <span>•</span>
+                                        <span>2025</span>
+                                    </div>
                                     <h3 className="font-serif text-2xl mt-2 md:text-4xl md:mt-5 text-white">Profile & URL Shortening App</h3>
                                     <hr className="border-t-2 border-white/5 mt-4 md:mt-5" />
                                     <ul className="flex flex-col mt-4 gap-4 md:mt-5">
@@ -42,11 +85,11 @@ const Projects = () => {
                                             <span>All data handled securely with MongoDB</span>
                                         </li>
                                     </ul>
-                                    <Link href="/more" >
+                                    <a href="https://profileshorten.gteck45.cloud/">
                                         <button className="cursor-pointer bg-white mt-8 inline-flex items-center justify-center text-gray-950 h-12 w-full md:w-auto px-6 rounded-xl font-semibold">
-                                            <span>More Detils</span>
+                                            <span>Live</span>
                                         </button>
-                                    </Link>
+                                    </a>
                                 </div>
                                 <div className="relative flex items-center justify-center ">
                                     <img
@@ -65,7 +108,7 @@ const Projects = () => {
                         <div className="bg-gray-800 relative overflow-hidden rounded-3xl px-8 pt-8 pb-0 md:pt-12 md:px-10 lg:pt-16 lg:px-20">
                             <div
                                 className="absolute inset-0 -z-10 opacity-5"
-                                // style={{ backgroundImage: "url(https://img.freepik.com/free-vector/smiling-young-man-illustration_1308-174669.jpg)" }}
+                            // style={{ backgroundImage: "url(https://img.freepik.com/free-vector/smiling-young-man-illustration_1308-174669.jpg)" }}
                             ></div>
                             <div className="lg:grid lg:grid-cols-2 lg:gap-16">
                                 <div className="lg:pb-16">
