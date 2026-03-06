@@ -43,9 +43,9 @@ const Projects = () => {
 </li>
 
                                     </ul>
-                                    <a href="http://16.16.209.238:3000/">
+                                    <a href="https://github.com/Gteck45/question-paper">
                                         <button className="cursor-pointer bg-white mt-8 inline-flex items-center justify-center text-gray-950 h-12 w-full md:w-auto px-6 rounded-xl font-semibold">
-                                            <span>Live</span>
+                                            <span>Github</span>
                                         </button>
                                     </a>
                                 </div>
@@ -87,9 +87,9 @@ const Projects = () => {
                                             <span>All data handled securely with MongoDB</span>
                                         </li>
                                     </ul>
-                                    <a href="https://profileshorten.gteck45.cloud/">
+                                    <a href="https://github.com/Gteck45/bitlinks_advance">
                                         <button className="cursor-pointer bg-white mt-8 inline-flex items-center justify-center text-gray-950 h-12 w-full md:w-auto px-6 rounded-xl font-semibold">
-                                            <span>Live</span>
+                                            <span>Github</span>
                                         </button>
                                     </a>
                                 </div>
@@ -223,7 +223,7 @@ const Projects = () => {
                                         </li>
 
                                     </ul>
-                                    <a href="https://songs.princebidhuri.com" target="_blank" rel="noreferrer">
+                                    <a href="https://github.com/Gteck45/Spotify" target="_blank" rel="noreferrer">
                                         <button className="cursor-pointer bg-white mt-8 inline-flex items-center justify-center text-gray-950 h-12 w-full md:w-auto px-6 rounded-xl font-semibold">
                                             <span>Live</span>
                                         </button>
@@ -356,7 +356,7 @@ const Projects = () => {
                                         </li>
 
                                     </ul>
-                                    <a href="https://this.princebidhuri.com" target="_blank" rel="noreferrer">
+                                    <a href="https://github.com/Gteck45/BrokenLinks" target="_blank" rel="noreferrer">
                                         <button className="cursor-pointer bg-white mt-8 inline-flex items-center justify-center text-gray-950 h-12 w-full md:w-auto px-6 rounded-xl font-semibold">
                                             <span>Live</span>
                                         </button>
